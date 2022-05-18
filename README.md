@@ -1,1 +1,1 @@
-# progetto_digital_humanities
+# Progetto Digital Humanities
